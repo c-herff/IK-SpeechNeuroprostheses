@@ -10,5 +10,6 @@ Requirements:
 * scikit-learn
 * pandas
 * pynwb
+
 Optional:
 * plotly
